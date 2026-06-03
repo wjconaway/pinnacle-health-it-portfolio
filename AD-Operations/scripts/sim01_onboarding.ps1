@@ -1,8 +1,8 @@
-# SIMULATION 01 — New Hire Onboarding
+# SIMULATION 01 - New Hire Onboarding
 # Employee: Dr. James Carter (jcarter)
 # Department: Clinical
 # Date: 6/3/2026
-# Performed by: Will Turner (wturner) — IT Administrator
+# Performed by: Will Turner (wturner) - IT Administrator
 
 Write-Host "=== PINNACLE HEALTH CLINIC ===" -ForegroundColor Cyan
 Write-Host "=== Simulation 01: New Hire Onboarding ===" -ForegroundColor Cyan
