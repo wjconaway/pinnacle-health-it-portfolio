@@ -15,7 +15,7 @@ IT skills in a HIPAA-relevant context.
 | Domain Controller | Windows Server 2022 - pinnacle.local |
 | Active Directory | 17 users, 5 security groups, 15 OUs |
 | Group Policy | 4 department GPOs |
-| Client Workstation | Windows 10/11 — PC-CLIN01 |
+| Client Workstation | Windows 10/11 - PC-CLIN01 |
 | SIEM | Wazuh |
 | Attack Platform | Kali Linux |
 | Network Simulation | Cisco Packet Tracer |
@@ -36,7 +36,7 @@ IT skills in a HIPAA-relevant context.
 ### AD Operations - VirtualBox
 | Ticket | Simulation | Status |
 |---|---|---|
-| PHC-2026-001 | New Hire Onboarding — Dr. James Carter |  Complete |
+| PHC-2026-001 | New Hire Onboarding - Dr. James Carter |  Complete |
 | PHC-2026-002 | Password Reset - Tom Ellis |  Complete |
 | PHC-2026-003 | Employee Offboarding - Paula Scott |  Pending |
 | PHC-2026-004 | Bulk Onboarding - 3 Admin Staff |  Pending |
