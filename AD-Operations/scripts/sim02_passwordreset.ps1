@@ -1,7 +1,7 @@
-# SIMULATION 02 — Password Reset
-# Employee: Tom Ellis (tellis) — Front Desk, Admin
+# SIMULATION 02 - Password Reset
+# Employee: Tom Ellis (tellis) - Front Desk, Admin
 # Date: 6/3/2026
-# Performed by: Zoe Adams (zadams) — Help Desk Tech
+# Performed by: Zoe Adams (zadams) - Help Desk Tech
 
 Write-Host "=== PINNACLE HEALTH CLINIC ===" -ForegroundColor Cyan
 Write-Host "=== Simulation 03: Password Reset Request ===" -ForegroundColor Cyan
