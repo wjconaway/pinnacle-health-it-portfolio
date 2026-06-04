@@ -38,8 +38,8 @@ IT skills in a HIPAA-relevant context.
 |---|---|---|
 | PHC-2026-001 | New Hire Onboarding - Dr. James Carter |  Complete |
 | PHC-2026-002 | Password Reset - Tom Ellis |  Complete |
-| PHC-2026-003 | Employee Offboarding - Paula Scott |  Pending |
-| PHC-2026-004 | Bulk Onboarding - 3 Admin Staff |  Pending |
+| PHC-2026-003 | Employee Offboarding - Paula Scott |  Complete |
+| PHC-2026-004 | Bulk Onboarding - 3 Admin Staff |  Complete |
 | PHC-2026-005 | GPO Troubleshooting |  Pending |
 
 ### Network Troubleshooting - Packet Tracer
