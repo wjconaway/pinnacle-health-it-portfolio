@@ -41,6 +41,7 @@ IT skills in a HIPAA-relevant context.
 | PHC-2026-003 | Employee Offboarding - Paula Scott |  Complete |
 | PHC-2026-004 | Bulk Onboarding - 3 Admin Staff |  Complete |
 | PHC-2026-005 | GPO Troubleshooting |  Complete |
+| PHC-2026-006 | Delegation - Zoe Adams |  Complete |
 
 ### Network Troubleshooting - Packet Tracer
 | Simulation | Status |
