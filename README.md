@@ -51,6 +51,7 @@ IT skills in a HIPAA-relevant context.
 | "I can't get to the internet" - DHCP/routing failure |  Complete |
 | "My IP is 169.254.x.x" - APIPA diagnosis |  Complete |
 | "Can't reach the shared drive" - inter-VLAN routing |  Complete |
+| "New employee PC won't connect" - wrong VLAN | Complete |
 | Guest WiFi reaching internal systems - VLAN isolation |  Pending |
 
 ### Cybersecurity - Wazuh + Kali
